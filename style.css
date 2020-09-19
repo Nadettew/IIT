@@ -1,0 +1,67 @@
+.sectionContent {
+	background: #A95F72;
+	margin-top: 50px;
+	margin-bottom: 50px;
+	margin-left: 400px;
+	margin-right: 400px;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	padding-left: 15px;
+	padding-right: 15px;
+}
+
+html, body {background: #734A65; font-family: Tahoma, Geneva, sans-serif; font-size: 16px; color: #F2F5EB;}
+
+p, ul, h1, h2, figcaption {
+	margin-left: 100px;
+	margin-right: 100px;
+}
+
+h1 {
+	font-size: 28;
+	line-height: 5px;
+	color: #F2F5EB
+}
+
+h2 {
+	font-weight: normal;
+	font-size: 24;
+}
+
+hr {
+  border-style: dashed;
+  color: #F2F5EB;
+}
+
+img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	border-radius: 8px;
+	width: 75%;
+	border: 5px solid;
+	border-color: #F2F5EB;
+}
+
+figcaption {
+	line-height: 50px;
+	text-align: center;
+}	
+
+a:link {
+	colour: #F2F5EB;
+	background-color: transparent;
+	text-decoration: none;
+}
+
+a:visited {
+	color: #ADACBF;
+	background-color: transparent;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #F2F5EB
+	background-color: transparent;
+	text-decoration: underline;
+}
