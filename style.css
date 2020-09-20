@@ -13,6 +13,8 @@
 .table {
 	padding-top: 15px;
 	padding-bottom: 15px;
+	padding-left: 0px;
+	padding-right: 0px;
 	background: #A95F72;
 }
 
@@ -35,6 +37,20 @@
 	content: "";
 	display: table;
 	clear: both;
+}
+
+.gallery {
+	display: block;
+	margin-left: 20px;
+	margin-right: auto;
+	float: left;
+	width: 30%;
+	padding: 5px;
+}
+
+.footer p {
+	text-align: center;
+	padding-bottom: 50px;
 }
 	
 html, body {background: #734A65; font-family: Tahoma, Geneva, sans-serif; font-size: 16px; color: #F2F5EB; font-weight:normal;}
@@ -72,7 +88,7 @@ img {
 	border-radius: 8px;
 	width: 75%;
 	border: 5px solid;
-	border-color: #F2F5EB;
+	border-color: #734A65;
 }
 
 figcaption {
